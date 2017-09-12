@@ -6,7 +6,7 @@ Effective Mass Calculator(**emc**) for Amsterdam Density Functional(ADF) softwar
 ### 1. effective mass
 [effective mass](https://en.wikipedia.org/wiki/Effective_mass_(solid-state_physics)) is defined as:
 
-![](picture/01.svg)
+![](figures/01.svg)
 
 in which *x, y, z* are the directions in the reciprocal Cartesian space (2π/A), *En(k)* is the dispersion relation for the *n*-th electronic band.For electrons or electron holes in a solid, the effective mass is usually stated in units of the rest mass of an electron, *me* (*9.11×1E−31* kg). In these units it is usually in the range *0.01* to *10*, but can also be lower or higher—for example, reaching *1,000* in exotic heavy fermion materials, or anywhere from zero to infinity (depending on definition) in graphene. In some degree, effective mass can represent the mobility of electronics or holes along the transport direction.
 ### 2. ADF
